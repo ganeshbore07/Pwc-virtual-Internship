@@ -1,11 +1,27 @@
 # Pwc-virtual-Internship
-All in on digital transformation: Creating a stronger, nimbler, more resilient future! 
+This was my 4th forage virtual internship program, where my role was PowerBI analyst and main objective of the tasks was that client wanted insights behind the churning customers. My first approach was to check the data & perform cleaning for better results & started my analysis on Power BI Desktop.
 
-We aim to build innovative technology solutions that differentiate us from our competitors and digitise the business. Part of that included a strategic decision to invest in upskilling programmes so our people could learn how to use digital tools for data visualisation as well as automation, data cleansing and more.
+Insights:- 
 
-If our people could use these tools to solve common problems, they’d help us become more efficient and growth-oriented now and more innovative later in Business Services and beyond. Now, employees are learning to build bots – over 2,400 have been created so far – to automate workflows. We continue to invest to make processes more intuitive using machine learning, PowerBI and eventually artificial intelligence (AI). These are key to working faster and solving problems differently for ourselves and our clients.
+➢ Customer Overview :
+There are total 7,043 customers subscribed to the client, out of which 3,555 are Males & 3,488 are Females, & the revenue earned is $16.1M
+84% of our customers are Young i.e. 5901.
+By tenure, 31% customers are subscribed to below 12 months, as a result there are more customers with month-to-month contract
+Most customers have Fiber optic internet for which they are paying high charges.
+73.5% of customers have been retained i.e. 5,174
 
-This is why you're here! Our Digital Accelerator programme is an internal chance that takes groups of our employees out of their day jobs and puts them through  trainings that teaches them skills in technology such as automation, machine learning, design thinking, and digital storytelling. PowerBI is an important part of it as visualising data helps to handle and understand clients. 
+➢ Churn Customers :
+1,869 customers have churned i.e. 26.5% , out of which 380 customers churned last month itself.
+Revenue lost due to churn is $2.9M.
+Gender is not the major factor of churning as ratio of Males and Females is same.
+1037 customers with less than 12 months tenure have churned, whereas customers with 61-72 months of tenure are just 93.
+89% customers churned had month-to-month contract.
+Customers paying high charges have churned the most i.e.1274, along with customers with fiber optic internet have also churned the most
 
-So, become a Digital Accelerator yourself and start your PowerBI journey with us! 
+➢ Churning factors are :
+Young Customers
+Customers with tenure of last than 12 months
+Customers with month-to-month contract
+Customers subscribed to fiber optic
+Customers paying high charges 
 
